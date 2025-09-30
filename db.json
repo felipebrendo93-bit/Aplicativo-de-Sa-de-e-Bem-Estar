@@ -1,0 +1,235 @@
+{
+  "usuarios": [
+    {
+      "nome": "Administrador",
+      "cpf": "00000000000",
+      "login": "admin",
+      "senha": "admin",
+      "tipo": "funcionario",
+      "agendamento": null
+    },
+    {
+      "nome": "danilo",
+      "cpf": "09844641403",
+      "login": "09844641403",
+      "senha": "94260896",
+      "tipo": "aluno",
+      "agendamento": {
+        "data": "2025-01-05",
+        "horario": "09:00"
+      }
+    },
+    {
+      "nome": "felipe",
+      "cpf": "09803951432",
+      "login": "09803951432",
+      "senha": "123456",
+      "tipo": "aluno",
+      "agendamento": null
+    }
+  ],
+  "treinos": [
+    {
+      "nome": "Treino de Peito para Iniciantes",
+      "url": "https://www.youtube.com/watch?v=r5ALfyMWRlE"
+    },
+    {
+      "nome": "Treino de Pernas e Glúteos",
+      "url": "https://www.youtube.com/watch?v=slw2FJ_cs9I"
+    },
+    {
+      "nome": "Aula de Cardio para Queimar Gordura",
+      "url": "https://www.youtube.com/watch?v=QZjuHeAn8wE"
+    },
+    {
+      "nome": "Treino de Abdômen em Casa",
+      "url": "https://www.youtube.com/watch?v=wVBUwiTxO14"
+    },
+    {
+      "nome": "Faa Este Treino Todas as Noites - 10 Minutos Com o Corpo Inteiro Para Ficar em Forma",
+      "url": "https://www.youtube.com/watch?v=SPFz4hFgGv8"
+    }
+  ],
+  "horariosDisponiveis": [
+    {
+      "data": "2025-10-01",
+      "horario": "10:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "09:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "10:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "11:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "14:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "15:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "16:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-01",
+      "horario": "17:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "09:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "10:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "11:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "14:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "15:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "16:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-02",
+      "horario": "17:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "09:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "10:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "11:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "14:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "15:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "16:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-03",
+      "horario": "17:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "09:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "10:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "11:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "14:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "15:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "16:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-04",
+      "horario": "17:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "09:00",
+      "disponivel": false
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "10:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "11:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "14:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "15:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "16:00",
+      "disponivel": true
+    },
+    {
+      "data": "2025-01-05",
+      "horario": "17:00",
+      "disponivel": true
+    }
+  ]
+}
